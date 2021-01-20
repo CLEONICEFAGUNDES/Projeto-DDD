@@ -1,0 +1,2 @@
+C:\Users\CLEO\Desktop\Projeto-Arquitetura-DDD-master\Projeto-Arquitetura-DDD-master\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\CLEO\Desktop\Projeto-Arquitetura-DDD-master\Projeto-Arquitetura-DDD-master\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
